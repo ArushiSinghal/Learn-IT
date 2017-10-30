@@ -9,6 +9,8 @@ sudo pip install -U numpy
 sudo pip3 install --upgrade sqlparse
 sudo pip install matplotlib
 sudo pip3 install matplotlib
+sudo pip install scipy
+sudo pip3 install scipy
 sudo apt-get install python-tk
 sudo pip install --upgrade sqlparse
 python code.py
